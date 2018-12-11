@@ -1,0 +1,14 @@
+{
+  "name": "nodebot",
+  "version": "1.0.0",
+  "description": "a Telegram Bot with nodeJS just for FUN!!!!",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hogo7",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
